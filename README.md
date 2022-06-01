@@ -14,6 +14,7 @@
   <img align="center" alt="Arthur-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Arthur-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/345059364/original.jpg">
 </div>
   
   ##
