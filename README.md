@@ -1,4 +1,4 @@
-## Olá! Sou o Arthur de Vicente Mascaro
+## Hello World! I am Arthur Mascaro!
 
 <div align="center">
   <a href="https://github.com/ArthurMascaro">
