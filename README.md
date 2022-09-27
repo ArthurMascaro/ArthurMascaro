@@ -1,4 +1,4 @@
-## Hello World! Sou o Arthur Mascaro!
+## Hello World! I am Arthur Mascaro!
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ArthurMascaro">
