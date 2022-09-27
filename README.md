@@ -1,5 +1,9 @@
 ## Hello World! I am Arthur Mascaro!
 
+- Javascript & Java lover <br>
+- Begginer designer <br>
+- I want to be a senior software engineer <br>
+
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ArthurMascaro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurMascaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
