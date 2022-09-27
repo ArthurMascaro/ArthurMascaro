@@ -2,7 +2,6 @@
 
 - Javascript & Java lover <br>
 - Begginer designer <br>
-- I want to be a senior software engineer <br>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ArthurMascaro">
