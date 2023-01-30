@@ -1,6 +1,6 @@
 ## Hello World! I am Arthur Mascaro!
 
-- Javascript & Java lover <br>
+- Java lover <br>
 - Begginer designer <br>
 
 <div align="center" style="display: inline_block">
