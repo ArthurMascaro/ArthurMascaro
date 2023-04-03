@@ -1,7 +1,6 @@
 ## Hello World! I am Arthur Mascaro!
 
 - Java lover <br>
-- Begginer designer <br>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ArthurMascaro">
