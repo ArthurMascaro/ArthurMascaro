@@ -1,6 +1,11 @@
-## Hello World! I am Arthur Mascaro!
-
-- Java lover <br>
+```java
+public class Arthur {
+  private String name = 'Arthur Mascaro';
+  private Location location = new Location("Brazil", "São Carlos", "SP");
+  private int age = 17;
+  private String[] experiences = ['Java', 'Python', 'Javascript', 'Springboot', 'html/css', 'SQL', 'PHP'];
+}
+```
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ArthurMascaro">
