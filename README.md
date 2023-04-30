@@ -3,7 +3,6 @@ public class Arthur {
   private String name = 'Arthur Mascaro';
   private Location location = new Location("Brazil", "São Carlos", "SP");
   private int age = 17;
-  private String[] experiences = ['Java', 'Python', 'Javascript', 'Springboot', 'html/css', 'SQL', 'PHP'];
 }
 ```
 
