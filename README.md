@@ -33,6 +33,8 @@ public class Arthur {
   <a href="https://t.me/Arthur_Mascaro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/ArthurMascaro/ArthurMascaro/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurmascaro&bg_color=0d1117&color=5474fc&line=5474fc&point=bcccfc&area=true&hide_border=true">
   
 </div>
   
