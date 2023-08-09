@@ -30,10 +30,10 @@ public class Arthur {
   
   ![Snake animation](https://github.com/ArthurMascaro/ArthurMascaro/blob/output/github-contribution-grid-snake.svg)
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurmascaro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurmascaro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurmascaro&theme=nord_dark) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurmascaro&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurmascaro&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurmascaro&theme=radical) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmascaro&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurmascaro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmascaro&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=arthurmascaro&theme=radical)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
