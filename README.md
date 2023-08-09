@@ -28,7 +28,7 @@ public class Arthur {
   <a href="https://www.linkedin.com/in/arthur-mascaro-a9451b184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/Arthur_Mascaro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ArthurMascaro/ArthurMascaro/blob/output/github-contribution-grid-snake.svg)
+  ![github-snake-dark](https://github.com/ArthurMascaro/ArthurMascaro/assets/91162689/b73bf8fe-9c02-4f02-8e28-c1e8c54b5ad1)
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurmascaro&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurmascaro&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurmascaro&theme=radical) |
 | :-: | :-: | :-: |
