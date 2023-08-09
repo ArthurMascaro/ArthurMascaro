@@ -33,7 +33,7 @@ public class Arthur {
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurmascaro&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurmascaro&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurmascaro&theme=radical) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmascaro&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=arthurmascaro&theme=radical)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurmascaro&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=arthurmascaro&theme=radical&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
