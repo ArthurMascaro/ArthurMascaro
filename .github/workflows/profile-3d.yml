@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
-          USERNAME: arthurmascaro
+          GITHUB_TOKEN: secrets.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
+          USERNAME: github.arthurmascaro
       - name: Commit & Push
         run: |
           git config user.name github-actions
