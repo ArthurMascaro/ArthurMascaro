@@ -1,9 +1,30 @@
 ```java
 public class Arthur {
-  private String name = 'Arthur Mascaro';
-  private Location location = new Location("Brazil", "São Carlos", "SP");
+  private String name = "Arthur Mascaro";
   private int age = 20;
+  private String role = "Mid-Level Back-End Engineer";
+  private String location = "Brazil, São Carlos, SP";
+  private String education = "Bachelor's in Software Engineering (ongoing) at IFSP, Technical degree in IT (IFSP)";
+  private List<String> skills = List.of("NestJS", "AWS", "DevOps", "Cloud Computing", "Microservices", "Serverless", "TypeScript", "PostgreSQL");
+  private String passion = "Passionate about technology, competitions, music and studying.";
+  private List<Language> languages = List.of(
+    new Language("Portuguese", "Native"),
+    new Language("English", "Advanced")
+  );
+  private List<String> awards = List.of(
+    "Silver medal and 4 Honorable Mentions at OBMEP",
+    "Gold medal, 2 Silver medals, and 1 Bronze medal at OBA",
+    "Gold medal at MOBFOG",
+    "2 Bronze medals at OBG",
+    "Bronze medal at OBR"
+  );
+  private List<String> internships = List.of(
+    "3 years of Scientific Initiation at USP, focusing on applied mathematics",
+    "1 year of Scientific Initiation for a data science platform for health-related algorithms",
+    "1 year in a robotics extension project at IFSP"
+  );
 }
+
 ```
 
 
