@@ -1,8 +1,8 @@
 ```java
 public class Arthur {
   private String name = "Arthur Mascaro";
-  private int age = 20;
-  private String role = "Mid-Level Back-End Engineer";
+  private Date birthday = new SimpleDateFormat("dd/MM/yyyy").parse("31/10/2005");
+  private String role = "Back-End Software Engineer";
   private String location = "Brazil, São Carlos, SP";
   private String education = "Bachelor's in Software Engineering (ongoing) at IFSP, Technical degree in IT (IFSP)";
   private List<String> skills = List.of("NestJS", "AWS", "DevOps", "Cloud Computing", "Microservices", "Serverless", "TypeScript", "PostgreSQL");
